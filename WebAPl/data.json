@@ -1,0 +1,96 @@
+{
+  "Users": [
+    {
+      "Id": 1,
+      "UserName": "jakub"
+    },
+    {
+      "Id": 2,
+      "UserName": "Jozef"
+    },
+    {
+      "Id": 3,
+      "UserName": "jan"
+    },
+    {
+      "Id": 4,
+      "UserName": "norbert kanalos"
+    },
+    {
+      "Id": 5,
+      "UserName": "vlado"
+    },
+    {
+      "Id": 6,
+      "UserName": "michal"
+    },
+    {
+      "Id": 7,
+      "UserName": "zdeno"
+    },
+    {
+      "Id": 8,
+      "UserName": "pls"
+    },
+    {
+      "Id": 9,
+      "UserName": "lda"
+    }
+  ],
+  "Todos": [
+    {
+      "Id": 2,
+      "Owner": {
+        "Id": 2,
+        "UserName": "Jozef"
+      },
+      "Title": "vyhonit kokot a spat",
+      "IsCompleted": false
+    },
+    {
+      "Id": 3,
+      "Owner": {
+        "Id": 3,
+        "UserName": "jan"
+      },
+      "Title": "Najebat susedovy na tu prasinu vyjebanu",
+      "IsCompleted": false
+    },
+    {
+      "Id": 4,
+      "Owner": {
+        "Id": 4,
+        "UserName": "norbert kanalos"
+      },
+      "Title": "honit",
+      "IsCompleted": false
+    },
+    {
+      "Id": 5,
+      "Owner": {
+        "Id": 4,
+        "UserName": "norbert kanalos"
+      },
+      "Title": "honit",
+      "IsCompleted": false
+    },
+    {
+      "Id": 1,
+      "Owner": {
+        "Id": 1,
+        "UserName": "jakub"
+      },
+      "Title": "string",
+      "IsCompleted": true
+    },
+    {
+      "Id": 6,
+      "Owner": {
+        "Id": 4,
+        "UserName": "norbert kanalos"
+      },
+      "Title": "title",
+      "IsCompleted": false
+    }
+  ]
+}
