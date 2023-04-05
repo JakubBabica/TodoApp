@@ -9,6 +9,7 @@ COPY ["WebAPl/WebAPl.csproj", "WebAPl/"]
 COPY ["Application/Application.csproj", "Application/"]
 COPY ["Domain/Domain.csproj", "Domain/"]
 COPY ["FileData/FileData.csproj", "FileData/"]
+COPY ["Test/Test.csproj", "Test/"]
 RUN dotnet restore "WebAPl/WebAPl.csproj"
 COPY . .
 WORKDIR "/src/WebAPl"
