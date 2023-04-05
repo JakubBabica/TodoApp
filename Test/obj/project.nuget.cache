@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "qfciy92N+T+RkASYM2xAJNOl3L05kQJi5X2hC7XWypo0qeYvZn9+sIwru/ycCVDKjBdB/cYf1rnbGeYzXfMo2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\babic\\RiderProjects\\TodoApp\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\babic\\.nuget\\packages\\microsoft.codecoverage\\17.6.0-preview-20230223-05\\microsoft.codecoverage.17.6.0-preview-20230223-05.nupkg.sha512",
+    "C:\\Users\\babic\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.0-preview-20230223-05\\microsoft.net.test.sdk.17.6.0-preview-20230223-05.nupkg.sha512",
+    "C:\\Users\\babic\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.0-preview-20230223-05\\microsoft.testplatform.objectmodel.17.6.0-preview-20230223-05.nupkg.sha512",
+    "C:\\Users\\babic\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.0-preview-20230223-05\\microsoft.testplatform.testhost.17.6.0-preview-20230223-05.nupkg.sha512",
+    "C:\\Users\\babic\\.nuget\\packages\\mstest.testadapter\\3.0.2\\mstest.testadapter.3.0.2.nupkg.sha512",
+    "C:\\Users\\babic\\.nuget\\packages\\mstest.testframework\\3.0.2\\mstest.testframework.3.0.2.nupkg.sha512",
+    "C:\\Users\\babic\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\babic\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\babic\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\babic\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\babic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\babic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
