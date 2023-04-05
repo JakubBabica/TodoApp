@@ -38,3 +38,8 @@ C:\Users\babic\RiderProjects\TodoApp\WebAPl\obj\Debug\net6.0\WebAPl.pdb
 C:\Users\babic\RiderProjects\TodoApp\WebAPl\obj\Debug\net6.0\WebAPl.genruntimeconfig.cache
 C:\Users\babic\RiderProjects\TodoApp\WebAPl\obj\Debug\net6.0\ref\WebAPl.dll
 C:\Users\babic\RiderProjects\TodoApp\WebAPl\bin\Debug\net6.0\data.json
+C:\Users\babic\RiderProjects\TodoApp\WebAPl\obj\Debug\net6.0\staticwebassets\msbuild.WebAPl.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\babic\RiderProjects\TodoApp\WebAPl\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPl.props
+C:\Users\babic\RiderProjects\TodoApp\WebAPl\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPl.props
+C:\Users\babic\RiderProjects\TodoApp\WebAPl\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPl.props
+C:\Users\babic\RiderProjects\TodoApp\WebAPl\obj\Debug\net6.0\staticwebassets.pack.json

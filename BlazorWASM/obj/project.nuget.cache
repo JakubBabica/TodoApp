@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jAS+BpOlWASw1EI2U1+v7s0vvCODXwsMWib9uIXEKIhk0CwLNaarxCBIpYFcexfGhD1v9bGo3jw1vkZC7pLp9Q==",
+  "dgSpecHash": "YTEjX65In/bUgKTLwAINiYJN+tNU6MNI/1PmMSsw2A/GDJhIWPMwjV427ttSxKsm37C0xsOjolr/g3KUkXKbXA==",
   "success": true,
   "projectFilePath": "C:\\Users\\babic\\RiderProjects\\TodoApp\\BlazorWASM\\BlazorWASM.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\babic\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\babic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\babic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\babic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

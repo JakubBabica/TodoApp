@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ahVS/uv2d7bo+Uo3UMY2qr0ljb8lEIMYK2rNndvzT51ciYLJcX3WOg7S/dxqJyJF1DBhexJlLWdRViw1vUWFQg==",
+  "dgSpecHash": "Ex5ogv+usNXOzQ8SHx81lgWBwQ2P5n8UksbRnaDTdtNOKazB4u8utSlCT52aJAdijYb8StI3lVokzkmlG17a1A==",
   "success": true,
   "projectFilePath": "C:\\Users\\babic\\RiderProjects\\TodoApp\\FileData\\FileData.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\babic\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\babic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\babic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\babic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
