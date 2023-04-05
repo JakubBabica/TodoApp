@@ -26,7 +26,8 @@ jobs:
         with:
           push: true
           tags: babicajakub/mywebapp:latest  # Please change the username here
-          
+      - name: Publish
+        run: dotnet publish TodoApp/TodoApp.csproj -c Release -o website    
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v3
         with:
