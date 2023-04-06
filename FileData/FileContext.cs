@@ -5,6 +5,7 @@ namespace FileData;
 
 public class FileContext //reading or writing to the file
 {
+    private string empty;
     private const string filePath = "data.json";
     private DataContainer? dataContainer;
     private int unused;
