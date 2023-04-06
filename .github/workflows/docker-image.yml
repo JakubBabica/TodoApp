@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: babicajakub/testImage:latest  # Please change the username here
+          tags: babicajakub/test_image:latest  # Please change the username here
