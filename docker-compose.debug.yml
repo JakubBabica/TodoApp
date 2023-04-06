@@ -1,0 +1,37 @@
+# Please refer https://aka.ms/HTTPSinContainer on how to setup an https developer certificate for your ASP.NET Core service.
+
+version: '3.4'
+
+services:
+  blazorwasm:
+    image: blazorwasm
+    build:
+      context: .
+      dockerfile: BlazorWASM/Dockerfile
+  webapi:
+    image: webapi
+    build:
+      context: .
+      dockerfile: WebAPI/Dockerfile 
+    ports:
+      - 5000:5000
+  test:
+    image: test
+    build:
+      context: .
+      dockerfile: Test/Dockerfile     
+  application:
+    image: application
+    build:
+      context: .
+      dockerfile: Application/Dockerfile     
+  domain:
+    image: domain
+    build:
+      context: .
+      dockerfile: Domain/Dockerfile    
+  filedata:
+    image: filedata
+    build:
+      context: .
+      dockerfile: Filedata/Dockerfile           
