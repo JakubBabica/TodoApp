@@ -7,7 +7,6 @@ public class FileContext //reading or writing to the file
 {
     private const string filePath = "data.json";
     private DataContainer? dataContainer;
-    private int unused;
     public ICollection<Todo> Todos
     {
         get
